@@ -35,10 +35,15 @@ Files in This Repository
 The following files are located in this repository:
 
 README.md - this file
+
 student.ipynb - A Jupiter Notebook representing the technical calculations for the project.
+
 data_cleaning.ipynb - A Jupyter Notebook documenting the cleaning techniques used in this exercise.
+
 Presentation Slides.pdf - A presentation of findings.
+
 ZippedData - A zipped collection of the data used in the study.
+
 
 
 
