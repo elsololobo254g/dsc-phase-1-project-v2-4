@@ -14,8 +14,6 @@ My hypothesis will be ;
         ◦ There are genre types which are preferred by the majority of movie watchers. 
 
 
-The data was collected from Github. There are 6 datasets provided.
-
 DEFINING THE METRIC OF SUCCESS
 
 When I show through visualizations that;
@@ -35,6 +33,16 @@ Chosen because of the movie_ratings and movie basics tables within the sql datab
 
 RESULTS
 ![image](https://user-images.githubusercontent.com/111562184/203306762-49ff1a5f-5284-43bb-945b-5af4e4cc996c.png)
+Enlish is the most used language.
+
+![image](https://user-images.githubusercontent.com/111562184/203307220-c1f9b17a-2425-406a-b33d-204023208c18.png)
+Documentaries is the most desired Genre.
+
+![image](https://user-images.githubusercontent.com/111562184/203307484-d14516b8-bbac-48ee-99a6-efd7ab878af3.png)
+Foreign profits far exceed domestic profits in relation to production cost.
+
+![image](https://user-images.githubusercontent.com/111562184/203307869-c9bcb7d2-2f1b-4443-84c6-e499877188ed.png)
+There are some months called "dump months" during which movies don't do well when released in those months.
 
 
 CONCLUSIONS
