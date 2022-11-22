@@ -1,3 +1,5 @@
+OVERVIEW
+
 I have assumed the role of a Data Scientist hired by Microsoft. My task is to use the six provided datasets from the various Movie Database
  website found online in order to give them actionable insights on how to go about creating a new movie studio.
 
@@ -29,11 +31,17 @@ I selected this datasets because of the original_language, popularity, vote_aver
     3. imdb.sql  database.
 Chosen because of the movie_ratings and movie basics tables within the sql database.
 
-All metrics of success met.
+Files in This Repository
+The following files are located in this repository:
+
+README.md - this file
+student.ipynb - A Jupiter Notebook representing the technical calculations for the project.
+data_cleaning.ipynb - A Jupyter Notebook documenting the cleaning techniques used in this exercise.
+Presentation Slides.pdf - A presentation of findings.
+ZippedData - A zipped collection of the data used in the study.
 
 
-[Notebook](https://github.com/elsololobo254g/dsc-phase-1-project-v2-4/blob/master/notebook.pdf)
 
-[Write Up]()
 
-[Presentation](https://github.com/elsololobo254g/dsc-phase-1-project-v2-4/blob/master/Presentation%20Slides%20.pdf)
+
+
