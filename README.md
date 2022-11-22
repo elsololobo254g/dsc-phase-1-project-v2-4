@@ -22,16 +22,21 @@ When I show through visualizations that;
     • More money is to be made Internationally.
 
 I will select the following tables to work with;
+    
     1. tn.movie_budgets.csv.gz database.
 Chosen because it has the production_budget which can be used to create two new columns of domestic_profits and worldwide_profits. 
 It also has the release data which can be useful.
+    
     2. tmbd.movies.csv  database.
 I selected this datasets because of the original_language, popularity, vote_average and the genres_id columns.
 
+    
     3. imdb.sql  database.
 Chosen because of the movie_ratings and movie basics tables within the sql database.
 
 RESULTS
+
+
 ![image](https://user-images.githubusercontent.com/111562184/203306762-49ff1a5f-5284-43bb-945b-5af4e4cc996c.png)
    English is the most used language.
 
