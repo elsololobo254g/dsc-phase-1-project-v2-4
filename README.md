@@ -32,8 +32,8 @@ Chosen because of the movie_ratings and movie basics tables within the sql datab
 All metrics of success met.
 
 
-[Notebook]()
+[Notebook](https://github.com/elsololobo254g/dsc-phase-1-project-v2-4/blob/master/notebook.pdf)
 
 [Write Up]()
 
-[Presentation]()
+[Presentation](https://github.com/elsololobo254g/dsc-phase-1-project-v2-4/blob/master/Presentation%20Slides%20.pdf)
