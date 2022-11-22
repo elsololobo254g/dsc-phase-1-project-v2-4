@@ -36,11 +36,8 @@ Chosen because of the movie_ratings and movie basics tables within the sql datab
 CONCLUSIONS
 
 1. The English Language is by far the most dominant language.
-
 2. The months of January to April and September to October are considered dump months where movies don't do quite well.
-
 3. Documentary, Action, Fantasy and Comedy have been the best genres.
-
 4. The international market brings in more money than the domestic market.
 
 RECOMMENDATIONS
