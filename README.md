@@ -39,9 +39,16 @@ CONCLUSIONS
 
 2. The months of January to April and September to October are considered dump months where movies don't do quite well.
 
-3.Documentary, Action, Fantasy and Comedy have been the best genres.
+3. Documentary, Action, Fantasy and Comedy have been the best genres.
 
 4. The international market brings in more money than the domestic market.
+
+RECOMMENDATIONS
+
+1. Produce more movies and films that cater to the International market than the domestic one.
+2. Invest more finances on Documentary, Action and Comedy films.
+3. Avoid releasing movies during the dump months but rather focus on the holiday months for example December.
+4. Produce a lot of English speaking movies but at the same time allow a suitable budget for the other languages
 
 Files in This Repository
 The following files are located in this repository:
