@@ -47,18 +47,14 @@ RECOMMENDATIONS
 3. Avoid releasing movies during the dump months but rather focus on the holiday months for example December.
 4. Produce a lot of English speaking movies but at the same time allow a suitable budget for the other languages
 
-Files in This Repository
-The following files are located in this repository:
+Files in This Repository:
 
-README.md - this file
 
-student.ipynb - A Jupiter Notebook representing the technical calculations for the project.
-
-data_cleaning.ipynb - A Jupyter Notebook documenting the cleaning techniques used in this exercise.
-
-Presentation Slides.pdf - A presentation of findings.
-
-ZippedData - A zipped collection of the data used in the study.
+1. README.md - this file
+2. student.ipynb - A Jupiter Notebook representing the technical calculations for the project.
+3. data_cleaning.ipynb - A Jupyter Notebook documenting the cleaning techniques used in this exercise.
+4. Presentation Slides.pdf - A presentation of findings.
+5. ZippedData - A zipped collection of the data used in the study.
 
 
 
